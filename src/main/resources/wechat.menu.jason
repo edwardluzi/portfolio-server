@@ -1,0 +1,76 @@
+{
+  "button": [
+    {
+      "name": "Portfolio",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "Holdings",
+          "key": "menu_portfolio_holdings",
+          "sub_button": []
+        },
+        {
+          "type": "click",
+          "name": "Transactions",
+          "key": "menu_portfolio_transactions",
+          "sub_button": []
+        },
+        {
+          "type": "click",
+          "name": "Analysis",
+          "key": "menu_portfolio_analysis",
+          "sub_button": []
+        }
+      ]
+    },
+    {
+      "name": "Market",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "Overview",
+          "key": "menu_market_overview",
+          "sub_button": []
+        },
+        {
+          "type": "click",
+          "name": "Quote",
+          "key": "menu_market_quote",
+          "sub_button": []
+        },
+        {
+          "type": "click",
+          "name": "Chart",
+          "key": "menu_market_chart",
+          "sub_button": []
+        },
+        {
+          "type": "click",
+          "name": "News",
+          "key": "menu_market_news",
+          "sub_button": []
+        }
+      ]
+    },
+    {
+      "name": "Help",
+      "sub_button": [
+        {
+          "type": "view",
+          "name": "Help",
+          "url": "http://v.qq.com/"
+        },
+        {
+          "type": "view",
+          "name": "Contact Us",
+          "url": "http://v.qq.com/"
+        },
+        {
+          "type": "view",
+          "name": "Portfolio App",
+          "url": "http://v.qq.com/"
+        }
+      ]
+    }
+  ]
+}
